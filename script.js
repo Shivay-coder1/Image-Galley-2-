@@ -1,0 +1,1 @@
+alert("Welcome To The Photo Gallery")
